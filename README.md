@@ -1,6 +1,6 @@
 # Machine Learning
 I'll be diving into various machine learning concepts to learn new
-things, but also expand my knowledge of them.
+things, but also expand my knowledge of them. I'll keep my notes for what we learn here.
 
 I go live on Twitch Mondays and Wednesdays at 6:30pm est.
 https://www.twitch.tv/melissacrawford
